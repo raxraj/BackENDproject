@@ -1,0 +1,22 @@
+{
+  "name": "nonamebackend",
+  "version": "1.0.0",
+  "description": "The beginning of something big.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raxraj/BackENDproject.git"
+  },
+  "author": "raxraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raxraj/BackENDproject/issues"
+  },
+  "homepage": "https://github.com/raxraj/BackENDproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
